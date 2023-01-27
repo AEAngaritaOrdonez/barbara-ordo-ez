@@ -1,2 +1,1 @@
-# barbara-ordo-ez
-modulo 2 prepcourse de henry
+este proyecto es una de como crear un repositorio y clonarlo desde github a mi computador.
